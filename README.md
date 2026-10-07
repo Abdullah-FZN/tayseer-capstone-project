@@ -1,4 +1,4 @@
-# Tayseer Digital Adoption - SAR 40M Investment Strategy
+# Tayseer Digital Adoption - 40M SAR Investment Strategy
 
 ## Project Overview
 This project presents an executive decision narrative to allocate a SAR 40 million budget aimed at improving digital adoption rates for the Tayseer platform. The analysis identifies regions lagging behind the 65% national target and proposes a data-driven investment strategy to close these gaps effectively.
