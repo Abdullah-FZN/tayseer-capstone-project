@@ -10,7 +10,7 @@ The decision is supported by the **Tayseer Executive Dashboard**, which provides
 * Average cost per transaction to highlight the operational impact of low adoption.
 
 ## Tools & Software Used
-* **Tableau / Tableau Public:** Used to build the interactive executive dashboard and extract visual evidence for regional adoption and cost metrics.
+* **Tableau Public:** Used to build the interactive executive dashboard and extract visual evidence for regional adoption and cost metrics.
 * **Microsoft PowerPoint:** Used to build the 7-slide executive narrative and structure the BLUF presentation.
 
 ## Team Members
