@@ -15,9 +15,11 @@ The decision is supported by the **Tayseer Executive Dashboard**, which provides
 
 ## Team Members
 * Abdullah Alfawzan
-* [اسم زميلك الأول]
-* [اسم زميلك الثاني]
-* [اسم زميلك الثالث]
+* 
+*
+*
+
+
 
 ## Acknowledgments
 This project was developed as part of the Data Visualization and Storytelling course by **SDAIA Academy**.
